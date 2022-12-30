@@ -83,4 +83,4 @@ Push everything to github -
 git push origin main
 ```
 =============================================================================
-https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU&index=1&t=0s
+https://www.youtube.com/watch?v=q8q3OFFfY6c&list=RDCMUCChmJrVa8kDg05JfCmxpLRw&start_radio=1&rv=q8q3OFFfY6c&t=232
